@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.achck.cn/sitemap.xml
